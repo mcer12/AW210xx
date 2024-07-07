@@ -1,6 +1,8 @@
 # AW210xx Library for Arduino
 
-The `AW210xx` library provides an interface to control AW21036 and AW21024 LED drivers via I2C on Arduino and compatible boards.
+The `AW210xx` library provides an interface to control Awinic AW21036 and AW21024 LED drivers via I2C on Arduino and compatible boards.  
+https://www.awinic.com/en/productDetail/AW21036QNR  
+https://www.awinic.com/en/productDetail/AW21024QNR  
 
 ## Features
 
