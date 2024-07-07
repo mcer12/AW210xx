@@ -75,11 +75,11 @@ void loop() {
 
   for (int i = 0; i < 256; i++) {
     aw210xx.setCombinedBriCIE(0, i);
-    delay(100);
+    delay(20);
   }
   for (int i = 0; i < 256; i++) {
     aw210xx.setCombinedBriCIE(0, 255 - i);
-    delay(100);
+    delay(20);
   }
 
   /*
